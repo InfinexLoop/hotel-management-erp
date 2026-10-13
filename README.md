@@ -84,4 +84,4 @@ This project is structured as a static Single Page Application (SPA):
 
 ## 📄 License & Attribution
 
-Developed by **[InfinexLoop](https://infinexloop.com)**. All rights reserved.
+Developed by **[Infinex Loop]([https://infinexloop.com](https://infinexloop.netlify.app/))**. All rights reserved.
